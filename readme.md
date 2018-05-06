@@ -20,5 +20,14 @@ The folder "SNOTEL-images" contains images from the 5x5 images grid (years 1985,
 
 ### Code files
 * JWB-SNOTEL-analysis.ipynb - This has the Python code used to do data cleaning and generate the visualizations
-*
-*
+* talktome - Arduino files for reading potentiometer
+* snowpack_viz - Processing files for displaying data
+
+# Sound files
+Here's our "sonic color ramp" scale:
+* 0 - 40% of historic snowpack - [slow drip](https://freesound.org/people/InspectorJ/sounds/271334/)
+* 40 - 80% of historic snowpack - [medium drip](https://freesound.org/people/zimbot/sounds/395181/)
+* 80 - 120% of historic snowpack - [medium trickle](https://freesound.org/people/Edo333/sounds/396060/)
+* 120 - 160% of historic snowpack - [small stream](https://freesound.org/people/javetakami/sounds/197088/)
+* 160+% of historic snowpack - [large stream](https://freesound.org/people/movingplaid/sounds/165287/)
+All sounds are from freesound.org via users InspectorJ, zimbot, Edo333, javetakami and movingplaid.
