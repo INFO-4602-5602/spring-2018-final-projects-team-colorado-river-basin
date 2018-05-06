@@ -4,9 +4,9 @@ Project by Jen Liu and Jordan Wirfs-Brock
 
 ## What's in this repo?
 
-To view a video of our project in action (the best part!) go to:
+To view a video of our project in action (the best part!) go to: https://youtu.be/1KUeiy6wBUc
 
-Documentation of our project is in the TKTK.pdf file.
+Documentation of our project is in the snowpack_writeup_final.pdf file.
 
 ### Data files
 * SNOTEL_download.csv - This is the [raw data downloaded from the NRCS custom report generator](https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customMultiTimeSeriesGroupByStationReport/monthly/start_of_period/network=%22SNTL%22%20AND%20element=%22WTEQ%22%20AND%20outServiceDate=%222100-01-01%22|name/POR_BEGIN,POR_END:M|3/stationId,name,WTEQ::pctOfNormal_1981), with the header text removed
